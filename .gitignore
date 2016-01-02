@@ -1,0 +1,7 @@
+.gradle
+.idea
+build
+dynamic-resizer.iml
+gradle
+gradlew
+gradlew.bat
